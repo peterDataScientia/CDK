@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -P CHEM1937
+#PBS -q seriallong
+#PBS -l select=1:ncpus=12:mem=16gb
+#PBS -l walltime=24:00:00
+#PBS -j oe
+set -euo pipefail
+unset PYTHONHOME PYTHONPATH
+BASE=/mnt/lustre/users/apeter1
+ROOT="$BASE/CDK_NP_SCREENING"
+export OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1
+cd "$ROOT/CDK_OPTUNA"
+"$BASE/cdk_screen_env/bin/python" -u optimize.py --root "$ROOT" --target "$TARGET" --model "$MODEL" --threads 12 --trials 100
