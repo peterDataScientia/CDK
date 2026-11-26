@@ -1,5 +1,3 @@
-<PARSED TEXT FOR SHEET: 1 / 1 TABS
-TAB NAME: CDK2_test_predictions.csv>
 index,SMILES,target,scaffold,observed,predicted
 0,C#CCN(c1cc(Nc2ccc(OCC(O)CN(C)C)cc2)ncn1)c1cc(Cl)ccc1Cl,CDK2,c1ccc(Nc2cc(Nc3ccccc3)ncn2)cc1,4.721246399047171,5.7609805246692565
 1,C#CCOc1nc(Nc2ccc(S(C)(=O)=O)cc2)ncc1C(F)(F)F,CDK2,c1ccc(Nc2ncccn2)cc1,7.602059991327962,6.682716816323834
