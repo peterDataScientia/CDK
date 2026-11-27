@@ -1,0 +1,8 @@
+{
+  "params": {
+    "max_features": 0.1,
+    "min_samples_leaf": 1,
+    "n_estimators": 500
+  },
+  "mean_fold_RMSE": 0.6734883279259222
+}

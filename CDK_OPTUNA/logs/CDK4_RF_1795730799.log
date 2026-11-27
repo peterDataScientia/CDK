@@ -1,0 +1,203 @@
+START CDK4 RF TPE
+[I 2026-11-27 00:26:34,651] A new study created in RDB with name: CDK4_RF
+[I 2026-11-27 00:26:39,592] Trial 0 finished with value: 0.7157858545463736 and parameters: {'depth_code': 28, 'n_estimators': 750, 'max_features': 0.20438892083773585, 'min_samples_split': 2, 'min_samples_leaf': 5}. Best is trial 0 with value: 0.7157858545463736.
+TPE 1 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:26:45,544] Trial 1 finished with value: 0.7346909584536476 and parameters: {'depth_code': 5, 'n_estimators': 750, 'max_features': 0.6858125130546388, 'min_samples_split': 11, 'min_samples_leaf': 9}. Best is trial 0 with value: 0.7157858545463736.
+TPE 2 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:26:51,435] Trial 2 finished with value: 0.7577004112857166 and parameters: {'depth_code': 0, 'n_estimators': 800, 'max_features': 0.610399568227964, 'min_samples_split': 20, 'min_samples_leaf': 14}. Best is trial 0 with value: 0.7157858545463736.
+TPE 3 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:26:54,695] Trial 3 finished with value: 0.7671370718792248 and parameters: {'depth_code': 29, 'n_estimators': 500, 'max_features': 0.2408470799288416, 'min_samples_split': 14, 'min_samples_leaf': 15}. Best is trial 0 with value: 0.7157858545463736.
+TPE 4 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:26:56,972] Trial 4 finished with value: 0.7238246191497064 and parameters: {'depth_code': 12, 'n_estimators': 150, 'max_features': 0.9616915473919442, 'min_samples_split': 6, 'min_samples_leaf': 6}. Best is trial 0 with value: 0.7157858545463736.
+TPE 5 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:03,181] Trial 5 finished with value: 0.7273574318230922 and parameters: {'depth_code': 37, 'n_estimators': 850, 'max_features': 0.5531564544324078, 'min_samples_split': 9, 'min_samples_leaf': 8}. Best is trial 0 with value: 0.7157858545463736.
+TPE 6 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:08,881] Trial 6 finished with value: 0.7714919735896184 and parameters: {'depth_code': 14, 'n_estimators': 800, 'max_features': 0.25420709578701445, 'min_samples_split': 10, 'min_samples_leaf': 18}. Best is trial 0 with value: 0.7157858545463736.
+TPE 7 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:16,526] Trial 7 finished with value: 0.7173355511298672 and parameters: {'depth_code': 14, 'n_estimators': 800, 'max_features': 0.7637745836381186, 'min_samples_split': 9, 'min_samples_leaf': 5}. Best is trial 0 with value: 0.7157858545463736.
+TPE 8 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:18,037] Trial 8 finished with value: 0.7726043383118488 and parameters: {'depth_code': 20, 'n_estimators': 150, 'max_features': 0.6045040331825767, 'min_samples_split': 17, 'min_samples_leaf': 18}. Best is trial 0 with value: 0.7157858545463736.
+TPE 9 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:22,695] Trial 9 finished with value: 0.7682007836960095 and parameters: {'depth_code': 9, 'n_estimators': 550, 'max_features': 0.8974742075720499, 'min_samples_split': 6, 'min_samples_leaf': 18}. Best is trial 0 with value: 0.7157858545463736.
+TPE 10 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:27,485] Trial 10 finished with value: 0.7172178027033369 and parameters: {'depth_code': 0, 'n_estimators': 600, 'max_features': 0.5373472787562213, 'min_samples_split': 19, 'min_samples_leaf': 5}. Best is trial 0 with value: 0.7157858545463736.
+TPE 11 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:34,541] Trial 11 finished with value: 0.7720374921403182 and parameters: {'depth_code': 3, 'n_estimators': 950, 'max_features': 0.8765590043668428, 'min_samples_split': 5, 'min_samples_leaf': 20}. Best is trial 0 with value: 0.7157858545463736.
+TPE 12 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:37,871] Trial 12 finished with value: 0.758740781456778 and parameters: {'depth_code': 16, 'n_estimators': 350, 'max_features': 0.8501619405706342, 'min_samples_split': 18, 'min_samples_leaf': 14}. Best is trial 0 with value: 0.7157858545463736.
+TPE 13 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:42,227] Trial 13 finished with value: 0.7489662197055797 and parameters: {'depth_code': 2, 'n_estimators': 600, 'max_features': 0.7006226829911997, 'min_samples_split': 17, 'min_samples_leaf': 7}. Best is trial 0 with value: 0.7157858545463736.
+TPE 14 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:47,574] Trial 14 finished with value: 0.7365503984493927 and parameters: {'depth_code': 24, 'n_estimators': 900, 'max_features': 0.30764532004362805, 'min_samples_split': 14, 'min_samples_leaf': 9}. Best is trial 0 with value: 0.7157858545463736.
+TPE 15 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:50,380] Trial 15 finished with value: 0.7643145511368675 and parameters: {'depth_code': 33, 'n_estimators': 300, 'max_features': 0.5580177444642097, 'min_samples_split': 18, 'min_samples_leaf': 15}. Best is trial 0 with value: 0.7157858545463736.
+TPE 16 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:55,318] Trial 16 finished with value: 0.7485665138618631 and parameters: {'depth_code': 24, 'n_estimators': 450, 'max_features': 0.7917703943881697, 'min_samples_split': 5, 'min_samples_leaf': 12}. Best is trial 0 with value: 0.7157858545463736.
+TPE 17 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:27:56,993] Trial 17 finished with value: 0.7214844369752611 and parameters: {'depth_code': 21, 'n_estimators': 150, 'max_features': 0.30366567920022275, 'min_samples_split': 15, 'min_samples_leaf': 6}. Best is trial 0 with value: 0.7157858545463736.
+TPE 18 / 100 BEST 0.7157858545463736 GRID 0.6801876595576357
+[I 2026-11-27 00:28:04,666] Trial 18 finished with value: 0.7105806403148797 and parameters: {'depth_code': 19, 'n_estimators': 700, 'max_features': 0.834525879604424, 'min_samples_split': 8, 'min_samples_leaf': 4}. Best is trial 18 with value: 0.7105806403148797.
+TPE 19 / 100 BEST 0.7105806403148797 GRID 0.6801876595576357
+[I 2026-11-27 00:28:12,997] Trial 19 finished with value: 0.7134556186052327 and parameters: {'depth_code': 34, 'n_estimators': 900, 'max_features': 0.6012932381165506, 'min_samples_split': 15, 'min_samples_leaf': 4}. Best is trial 18 with value: 0.7105806403148797.
+TPE 20 / 100 BEST 0.7105806403148797 GRID 0.6801876595576357
+[I 2026-11-27 00:28:18,911] Trial 20 finished with value: 0.6850060145607649 and parameters: {'depth_code': 40, 'n_estimators': 650, 'max_features': 0.41683020344244537, 'min_samples_split': 13, 'min_samples_leaf': 1}. Best is trial 20 with value: 0.6850060145607649.
+TPE 21 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:28:24,764] Trial 21 finished with value: 0.6861442070931886 and parameters: {'depth_code': 47, 'n_estimators': 650, 'max_features': 0.41122062125756104, 'min_samples_split': 12, 'min_samples_leaf': 1}. Best is trial 20 with value: 0.6850060145607649.
+TPE 22 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:28:31,479] Trial 22 finished with value: 0.6855878551152086 and parameters: {'depth_code': 44, 'n_estimators': 700, 'max_features': 0.42032091239007285, 'min_samples_split': 12, 'min_samples_leaf': 1}. Best is trial 20 with value: 0.6850060145607649.
+TPE 23 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:28:37,905] Trial 23 finished with value: 0.6881332718955473 and parameters: {'depth_code': 47, 'n_estimators': 650, 'max_features': 0.40086310420099674, 'min_samples_split': 12, 'min_samples_leaf': 1}. Best is trial 20 with value: 0.6850060145607649.
+TPE 24 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:28:41,381] Trial 24 finished with value: 0.6875980126216622 and parameters: {'depth_code': 48, 'n_estimators': 450, 'max_features': 0.06688225442175205, 'min_samples_split': 13, 'min_samples_leaf': 1}. Best is trial 20 with value: 0.6850060145607649.
+TPE 25 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:28:49,408] Trial 25 finished with value: 0.6939493840223875 and parameters: {'depth_code': 42, 'n_estimators': 1000, 'max_features': 0.42142416932427973, 'min_samples_split': 11, 'min_samples_leaf': 2}. Best is trial 20 with value: 0.6850060145607649.
+TPE 26 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:28:54,978] Trial 26 finished with value: 0.7039171901067073 and parameters: {'depth_code': 42, 'n_estimators': 650, 'max_features': 0.4429088325766412, 'min_samples_split': 12, 'min_samples_leaf': 3}. Best is trial 20 with value: 0.6850060145607649.
+TPE 27 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:29:00,929] Trial 27 finished with value: 0.6946441719051606 and parameters: {'depth_code': 43, 'n_estimators': 700, 'max_features': 0.3622246310229088, 'min_samples_split': 15, 'min_samples_leaf': 2}. Best is trial 20 with value: 0.6850060145607649.
+TPE 28 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:29:04,564] Trial 28 finished with value: 0.7084269070094287 and parameters: {'depth_code': 39, 'n_estimators': 550, 'max_features': 0.15087556567406984, 'min_samples_split': 13, 'min_samples_leaf': 3}. Best is trial 20 with value: 0.6850060145607649.
+TPE 29 / 100 BEST 0.6850060145607649 GRID 0.6801876595576357
+[I 2026-11-27 00:29:09,984] Trial 29 finished with value: 0.6831719384511492 and parameters: {'depth_code': 45, 'n_estimators': 350, 'max_features': 0.47155881560034607, 'min_samples_split': 3, 'min_samples_leaf': 1}. Best is trial 29 with value: 0.6831719384511492.
+TPE 30 / 100 BEST 0.6831719384511492 GRID 0.6801876595576357
+[I 2026-11-27 00:29:14,201] Trial 30 finished with value: 0.6910746172980857 and parameters: {'depth_code': 38, 'n_estimators': 300, 'max_features': 0.4798314047634167, 'min_samples_split': 2, 'min_samples_leaf': 2}. Best is trial 29 with value: 0.6831719384511492.
+TPE 31 / 100 BEST 0.6831719384511492 GRID 0.6801876595576357
+[I 2026-11-27 00:29:22,123] Trial 31 finished with value: 0.6810400494942471 and parameters: {'depth_code': 45, 'n_estimators': 700, 'max_features': 0.3563015984399321, 'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 31 with value: 0.6810400494942471.
+TPE 32 / 100 BEST 0.6810400494942471 GRID 0.6801876595576357
+[I 2026-11-27 00:29:26,570] Trial 32 finished with value: 0.7025067336901035 and parameters: {'depth_code': 44, 'n_estimators': 400, 'max_features': 0.3215072545614057, 'min_samples_split': 3, 'min_samples_leaf': 3}. Best is trial 31 with value: 0.6810400494942471.
+TPE 33 / 100 BEST 0.6810400494942471 GRID 0.6801876595576357
+[I 2026-11-27 00:29:32,666] Trial 33 finished with value: 0.6784528247993438 and parameters: {'depth_code': 40, 'n_estimators': 750, 'max_features': 0.17660313999047242, 'min_samples_split': 3, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 34 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:29:37,260] Trial 34 finished with value: 0.7125302782813595 and parameters: {'depth_code': 32, 'n_estimators': 750, 'max_features': 0.16001404730305935, 'min_samples_split': 3, 'min_samples_leaf': 4}. Best is trial 33 with value: 0.6784528247993438.
+TPE 35 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:29:39,129] Trial 35 finished with value: 0.7116056975636607 and parameters: {'depth_code': 36, 'n_estimators': 250, 'max_features': 0.05582775534796551, 'min_samples_split': 2, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 36 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:29:45,540] Trial 36 finished with value: 0.7379595860309016 and parameters: {'depth_code': 28, 'n_estimators': 850, 'max_features': 0.4904103420033386, 'min_samples_split': 3, 'min_samples_leaf': 10}. Best is trial 33 with value: 0.6784528247993438.
+TPE 37 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:29:49,485] Trial 37 finished with value: 0.7252774288931145 and parameters: {'depth_code': 40, 'n_estimators': 500, 'max_features': 0.19541771604670738, 'min_samples_split': 4, 'min_samples_leaf': 6}. Best is trial 33 with value: 0.6784528247993438.
+TPE 38 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:29:53,752] Trial 38 finished with value: 0.6923694202230534 and parameters: {'depth_code': 45, 'n_estimators': 600, 'max_features': 0.24689802325755766, 'min_samples_split': 8, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 39 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:02,804] Trial 39 finished with value: 0.6886657174814468 and parameters: {'depth_code': 40, 'n_estimators': 750, 'max_features': 0.651975352702975, 'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 40 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:08,252] Trial 40 finished with value: 0.7247565595678445 and parameters: {'depth_code': 29, 'n_estimators': 800, 'max_features': 0.34830071880354174, 'min_samples_split': 4, 'min_samples_leaf': 7}. Best is trial 33 with value: 0.6784528247993438.
+TPE 41 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:15,020] Trial 41 finished with value: 0.688315977121544 and parameters: {'depth_code': 45, 'n_estimators': 700, 'max_features': 0.4630562382568282, 'min_samples_split': 10, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 42 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:21,402] Trial 42 finished with value: 0.6909884139637961 and parameters: {'depth_code': 36, 'n_estimators': 700, 'max_features': 0.37741221570464883, 'min_samples_split': 2, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 43 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:28,244] Trial 43 finished with value: 0.7071045880403197 and parameters: {'depth_code': 41, 'n_estimators': 800, 'max_features': 0.5254665137335981, 'min_samples_split': 6, 'min_samples_leaf': 4}. Best is trial 33 with value: 0.6784528247993438.
+TPE 44 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:32,756] Trial 44 finished with value: 0.7167047414409218 and parameters: {'depth_code': 45, 'n_estimators': 500, 'max_features': 0.2794796003608072, 'min_samples_split': 4, 'min_samples_leaf': 5}. Best is trial 33 with value: 0.6784528247993438.
+TPE 45 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:37,956] Trial 45 finished with value: 0.6812019534372675 and parameters: {'depth_code': 47, 'n_estimators': 850, 'max_features': 0.13260283163835437, 'min_samples_split': 10, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 46 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:43,325] Trial 46 finished with value: 0.7064206718172462 and parameters: {'depth_code': 47, 'n_estimators': 850, 'max_features': 0.1137460798774647, 'min_samples_split': 10, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 47 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:49,491] Trial 47 finished with value: 0.6945007587320671 and parameters: {'depth_code': 37, 'n_estimators': 750, 'max_features': 0.09626588533364142, 'min_samples_split': 7, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 48 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:55,686] Trial 48 finished with value: 0.7186602036611817 and parameters: {'depth_code': 48, 'n_estimators': 900, 'max_features': 0.2277212743036331, 'min_samples_split': 5, 'min_samples_leaf': 5}. Best is trial 33 with value: 0.6784528247993438.
+TPE 49 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:30:56,845] Trial 49 finished with value: 0.7605698762383397 and parameters: {'depth_code': 31, 'n_estimators': 100, 'max_features': 0.19878093194136387, 'min_samples_split': 3, 'min_samples_leaf': 12}. Best is trial 33 with value: 0.6784528247993438.
+TPE 50 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:01,402] Trial 50 finished with value: 0.691695665234976 and parameters: {'depth_code': 35, 'n_estimators': 600, 'max_features': 0.2706506448403866, 'min_samples_split': 20, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 51 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:05,857] Trial 51 finished with value: 0.7004461822784489 and parameters: {'depth_code': 44, 'n_estimators': 750, 'max_features': 0.020561556931912167, 'min_samples_split': 14, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 52 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:12,193] Trial 52 finished with value: 0.6953979910584883 and parameters: {'depth_code': 41, 'n_estimators': 650, 'max_features': 0.5845522979589792, 'min_samples_split': 11, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 53 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:17,342] Trial 53 finished with value: 0.7084493374992523 and parameters: {'depth_code': 46, 'n_estimators': 850, 'max_features': 0.1582087611953572, 'min_samples_split': 13, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 54 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:28,128] Trial 54 finished with value: 0.6867396170257061 and parameters: {'depth_code': 43, 'n_estimators': 950, 'max_features': 0.500168553776107, 'min_samples_split': 9, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 55 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:32,906] Trial 55 finished with value: 0.7094034281324102 and parameters: {'depth_code': 39, 'n_estimators': 700, 'max_features': 0.3334401162782885, 'min_samples_split': 5, 'min_samples_leaf': 4}. Best is trial 33 with value: 0.6784528247993438.
+TPE 56 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:39,052] Trial 56 finished with value: 0.6954871450072112 and parameters: {'depth_code': 48, 'n_estimators': 800, 'max_features': 0.3836161764432733, 'min_samples_split': 16, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 57 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:41,711] Trial 57 finished with value: 0.69311979006177 and parameters: {'depth_code': 42, 'n_estimators': 200, 'max_features': 0.42363115956878505, 'min_samples_split': 12, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 58 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:45,935] Trial 58 finished with value: 0.7169942606120451 and parameters: {'depth_code': 7, 'n_estimators': 550, 'max_features': 0.45170266864329695, 'min_samples_split': 2, 'min_samples_leaf': 5}. Best is trial 33 with value: 0.6784528247993438.
+TPE 59 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:51,688] Trial 59 finished with value: 0.7642560118561629 and parameters: {'depth_code': 46, 'n_estimators': 650, 'max_features': 0.9619735643693879, 'min_samples_split': 4, 'min_samples_leaf': 16}. Best is trial 33 with value: 0.6784528247993438.
+TPE 60 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:31:55,837] Trial 60 finished with value: 0.7697609640770338 and parameters: {'depth_code': 38, 'n_estimators': 600, 'max_features': 0.5515187118287158, 'min_samples_split': 11, 'min_samples_leaf': 20}. Best is trial 33 with value: 0.6784528247993438.
+TPE 61 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:03,273] Trial 61 finished with value: 0.6865956153741981 and parameters: {'depth_code': 44, 'n_estimators': 650, 'max_features': 0.4103756038758897, 'min_samples_split': 12, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 62 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:09,687] Trial 62 finished with value: 0.6941296603884788 and parameters: {'depth_code': 46, 'n_estimators': 700, 'max_features': 0.5181328743998186, 'min_samples_split': 14, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 63 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:16,137] Trial 63 finished with value: 0.7043560973326393 and parameters: {'depth_code': 43, 'n_estimators': 750, 'max_features': 0.43051630163160864, 'min_samples_split': 13, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 64 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:23,648] Trial 64 finished with value: 0.6909093472283943 and parameters: {'depth_code': 48, 'n_estimators': 650, 'max_features': 0.6403302127423115, 'min_samples_split': 10, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 65 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:27,502] Trial 65 finished with value: 0.7046089245223395 and parameters: {'depth_code': 40, 'n_estimators': 550, 'max_features': 0.2956225792308745, 'min_samples_split': 14, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 66 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:32,736] Trial 66 finished with value: 0.6949404484641746 and parameters: {'depth_code': 42, 'n_estimators': 450, 'max_features': 0.3444470092593275, 'min_samples_split': 12, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 67 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:38,256] Trial 67 finished with value: 0.708165724187528 and parameters: {'depth_code': 47, 'n_estimators': 750, 'max_features': 0.38440727754281045, 'min_samples_split': 3, 'min_samples_leaf': 4}. Best is trial 33 with value: 0.6784528247993438.
+TPE 68 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:46,157] Trial 68 finished with value: 0.6907509248109465 and parameters: {'depth_code': 44, 'n_estimators': 850, 'max_features': 0.4654138690160392, 'min_samples_split': 13, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 69 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:50,391] Trial 69 finished with value: 0.6982518125209292 and parameters: {'depth_code': 11, 'n_estimators': 600, 'max_features': 0.3093248918997322, 'min_samples_split': 16, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 70 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:54,985] Trial 70 finished with value: 0.6813685812585653 and parameters: {'depth_code': 26, 'n_estimators': 700, 'max_features': 0.12880007656832088, 'min_samples_split': 8, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 71 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:32:59,889] Trial 71 finished with value: 0.6850150758431134 and parameters: {'depth_code': 22, 'n_estimators': 700, 'max_features': 0.1150253271094551, 'min_samples_split': 8, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 72 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:04,611] Trial 72 finished with value: 0.6803515796987418 and parameters: {'depth_code': 22, 'n_estimators': 700, 'max_features': 0.11705153422490133, 'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 73 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:09,818] Trial 73 finished with value: 0.6917902307827186 and parameters: {'depth_code': 24, 'n_estimators': 800, 'max_features': 0.1416071832122477, 'min_samples_split': 8, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 74 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:14,238] Trial 74 finished with value: 0.7058087201245018 and parameters: {'depth_code': 20, 'n_estimators': 700, 'max_features': 0.10312233062762895, 'min_samples_split': 7, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 75 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:19,382] Trial 75 finished with value: 0.6864998321937357 and parameters: {'depth_code': 16, 'n_estimators': 800, 'max_features': 0.057001480525763315, 'min_samples_split': 9, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 76 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:24,850] Trial 76 finished with value: 0.6890324945727015 and parameters: {'depth_code': 25, 'n_estimators': 700, 'max_features': 0.1809380915067542, 'min_samples_split': 6, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 77 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:27,294] Trial 77 finished with value: 0.7581052304124487 and parameters: {'depth_code': 18, 'n_estimators': 350, 'max_features': 0.13454301505574312, 'min_samples_split': 8, 'min_samples_leaf': 12}. Best is trial 33 with value: 0.6784528247993438.
+TPE 78 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:31,923] Trial 78 finished with value: 0.6825715315533751 and parameters: {'depth_code': 22, 'n_estimators': 600, 'max_features': 0.2283188010984732, 'min_samples_split': 9, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 79 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:36,343] Trial 79 finished with value: 0.7047087626752371 and parameters: {'depth_code': 26, 'n_estimators': 600, 'max_features': 0.23277273341595706, 'min_samples_split': 11, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 80 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:39,705] Trial 80 finished with value: 0.7129686692709478 and parameters: {'depth_code': 23, 'n_estimators': 500, 'max_features': 0.1732183151532827, 'min_samples_split': 7, 'min_samples_leaf': 4}. Best is trial 33 with value: 0.6784528247993438.
+TPE 81 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:44,601] Trial 81 finished with value: 0.683019021675341 and parameters: {'depth_code': 27, 'n_estimators': 650, 'max_features': 0.21686311491231977, 'min_samples_split': 9, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 82 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:49,350] Trial 82 finished with value: 0.685595388419483 and parameters: {'depth_code': 18, 'n_estimators': 650, 'max_features': 0.221436191543298, 'min_samples_split': 9, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 83 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:53,568] Trial 83 finished with value: 0.6921062496432623 and parameters: {'depth_code': 27, 'n_estimators': 600, 'max_features': 0.2587456118838391, 'min_samples_split': 10, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 84 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:33:57,478] Trial 84 finished with value: 0.6852505144241146 and parameters: {'depth_code': 30, 'n_estimators': 550, 'max_features': 0.07823567620921545, 'min_samples_split': 9, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 85 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:02,358] Trial 85 finished with value: 0.6933709767405225 and parameters: {'depth_code': 33, 'n_estimators': 650, 'max_features': 0.21708070887245812, 'min_samples_split': 9, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 86 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:07,412] Trial 86 finished with value: 0.760299724336198 and parameters: {'depth_code': 21, 'n_estimators': 750, 'max_features': 0.036469263662079476, 'min_samples_split': 2, 'min_samples_leaf': 9}. Best is trial 33 with value: 0.6784528247993438.
+TPE 87 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:12,616] Trial 87 finished with value: 0.6846228908956039 and parameters: {'depth_code': 27, 'n_estimators': 750, 'max_features': 0.1899606175830663, 'min_samples_split': 10, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 88 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:18,027] Trial 88 finished with value: 0.7059077795319038 and parameters: {'depth_code': 26, 'n_estimators': 900, 'max_features': 0.17432114707025492, 'min_samples_split': 10, 'min_samples_leaf': 3}. Best is trial 33 with value: 0.6784528247993438.
+TPE 89 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:22,759] Trial 89 finished with value: 0.6817995123769658 and parameters: {'depth_code': 29, 'n_estimators': 800, 'max_features': 0.12360982230876533, 'min_samples_split': 8, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 90 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:27,879] Trial 90 finished with value: 0.690723070199724 and parameters: {'depth_code': 29, 'n_estimators': 800, 'max_features': 0.1277293124379766, 'min_samples_split': 6, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 91 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:33,668] Trial 91 finished with value: 0.681065220130298 and parameters: {'depth_code': 28, 'n_estimators': 850, 'max_features': 0.09396070734266358, 'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 92 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:39,087] Trial 92 finished with value: 0.6803410188942279 and parameters: {'depth_code': 23, 'n_estimators': 850, 'max_features': 0.10198116410581783, 'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 93 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:44,526] Trial 93 finished with value: 0.6823097821100104 and parameters: {'depth_code': 23, 'n_estimators': 850, 'max_features': 0.08234120339423837, 'min_samples_split': 8, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 94 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:50,094] Trial 94 finished with value: 0.6970441148819966 and parameters: {'depth_code': 22, 'n_estimators': 950, 'max_features': 0.08468014938393476, 'min_samples_split': 8, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 95 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:34:55,417] Trial 95 finished with value: 0.6839227140077805 and parameters: {'depth_code': 25, 'n_estimators': 900, 'max_features': 0.04825863887108918, 'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 96 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:35:00,798] Trial 96 finished with value: 0.6958796621291359 and parameters: {'depth_code': 23, 'n_estimators': 850, 'max_features': 0.08219462561708256, 'min_samples_split': 7, 'min_samples_leaf': 2}. Best is trial 33 with value: 0.6784528247993438.
+TPE 97 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:35:06,949] Trial 97 finished with value: 0.738274530090834 and parameters: {'depth_code': 20, 'n_estimators': 900, 'max_features': 0.1233295604963274, 'min_samples_split': 6, 'min_samples_leaf': 8}. Best is trial 33 with value: 0.6784528247993438.
+TPE 98 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:35:12,070] Trial 98 finished with value: 0.771002481111704 and parameters: {'depth_code': 16, 'n_estimators': 850, 'max_features': 0.14986845508363972, 'min_samples_split': 5, 'min_samples_leaf': 17}. Best is trial 33 with value: 0.6784528247993438.
+TPE 99 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+[I 2026-11-27 00:35:17,176] Trial 99 finished with value: 0.6838691414693732 and parameters: {'depth_code': 30, 'n_estimators': 800, 'max_features': 0.10028704369558322, 'min_samples_split': 8, 'min_samples_leaf': 1}. Best is trial 33 with value: 0.6784528247993438.
+TPE 100 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357
+TPE 100 / 100 BEST 0.6784528247993438 GRID 0.6801876595576357

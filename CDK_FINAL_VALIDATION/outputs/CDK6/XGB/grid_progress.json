@@ -1,0 +1,488 @@
+[
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 3,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6952739700801158
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 3,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6965284797383963
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 3,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6344799773908817
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 3,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6399160093078432
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 3,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6229398250621003
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 3,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6282701722995954
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 5,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.67477334652769
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 5,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6805251084883999
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 5,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.629067357320114
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 5,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6441795444791873
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 5,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6296003234449618
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 5,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6420174638290871
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 7,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6661084993854958
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 7,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6792197794271717
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 7,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6325903486662566
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 7,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.656702671184224
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 7,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6357093170477819
+  },
+  {
+    "params": {
+      "learning_rate": 0.01,
+      "max_depth": 7,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6561086018978735
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.61958261640075
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6273991158283614
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6278182486285703
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.626526326507368
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6390797210953416
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.635426924804674
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6339871487344155
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6447949255312357
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6517304116214597
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6583763799107993
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6584125224218498
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6698819915854998
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 7,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6342121998390489
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 7,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6575010440017056
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 7,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6530619690773011
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 7,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6699959651525578
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 7,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.657538794035536
+  },
+  {
+    "params": {
+      "learning_rate": 0.05,
+      "max_depth": 7,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6775314875283244
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 3,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6256174324181376
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 3,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6231929584911986
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 3,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6559477477067941
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 3,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6402673160786909
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 3,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6652876314699135
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 3,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6567174770705051
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 5,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6449149594349834
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 5,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6497440945237826
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 5,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6694844338775121
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 5,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6717885117741434
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 5,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6735209644644827
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 5,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.686492406890009
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 7,
+      "n_estimators": 100,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6482165666556905
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 7,
+      "n_estimators": 100,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6691627268652058
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 7,
+      "n_estimators": 300,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6660292316388823
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 7,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6852416383104865
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 7,
+      "n_estimators": 500,
+      "subsample": 0.8
+    },
+    "mean_fold_RMSE": 0.6698190559463426
+  },
+  {
+    "params": {
+      "learning_rate": 0.1,
+      "max_depth": 7,
+      "n_estimators": 500,
+      "subsample": 1.0
+    },
+    "mean_fold_RMSE": 0.6905045613633947
+  }
+]

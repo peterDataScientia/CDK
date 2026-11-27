@@ -1,0 +1,12 @@
+{
+  "params": {
+    "n_estimators": 400,
+    "max_features": 0.02558802274138286,
+    "max_depth": 50,
+    "min_samples_split": 4,
+    "min_samples_leaf": 2
+  },
+  "mean_fold_RMSE": 0.5937909212907941,
+  "trial": 25,
+  "n_complete": 100
+}

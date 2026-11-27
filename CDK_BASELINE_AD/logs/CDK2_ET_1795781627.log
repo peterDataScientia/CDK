@@ -1,0 +1,6 @@
+START CDK2 ET core
+Traceback (most recent call last):
+  File "/mnt/lustre/users/apeter1/CDK_NP_SCREENING/CDK_BASELINE_AD/validate.py", line 98, in <module>
+    assert len(q)==5
+           ^^^^^^^^^
+AssertionError

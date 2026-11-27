@@ -1,0 +1,16 @@
+[
+  {
+    "source": "COCONUT",
+    "input": "CDK_COCONUT_full_SVR_ET.csv",
+    "sha256": "f8564eaf3559263314b5a1cfe2fe3476f43ab3874754a54ac8f25386234b97a7",
+    "records": 735276,
+    "unseen": 735167
+  },
+  {
+    "source": "LOTUS",
+    "input": "CDK_LOTUS_full_SVR_ET.csv",
+    "sha256": "bf284eaa6ab9467500628e2b81afec158d42fe132632d33407996db4f4ee348b",
+    "records": 276401,
+    "unseen": 276381
+  }
+]

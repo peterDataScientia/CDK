@@ -1,0 +1,9 @@
+{
+  "params": {
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "n_estimators": 100,
+    "subsample": 0.8
+  },
+  "mean_fold_RMSE": 0.61958261640075
+}

@@ -1,0 +1,32 @@
+START CDK6 XGB loo
+/mnt/lustre/users/apeter1/cdk_screen_env/lib/python3.12/site-packages/xgboost/core.py:265: FutureWarning: Your system has an old version of glibc (< 2.28). We will stop supporting Linux distros with glibc older than 2.28 after **May 31, 2025**. Please upgrade to a recent Linux distro (with glibc 2.28+) to use future versions of XGBoost.
+Note: You have installed the 'manylinux2014' variant of XGBoost. Certain features such as GPU algorithms or federated learning are not available. To use these features, please upgrade to a recent Linux distro with glibc 2.28+, and install the 'manylinux_2_28' variant.
+  warnings.warn(
+LOO 25 660
+LOO 50 660
+LOO 75 660
+LOO 100 660
+LOO 125 660
+LOO 150 660
+LOO 175 660
+LOO 200 660
+LOO 225 660
+LOO 250 660
+LOO 275 660
+LOO 300 660
+LOO 325 660
+LOO 350 660
+LOO 375 660
+LOO 400 660
+LOO 425 660
+LOO 450 660
+LOO 475 660
+LOO 500 660
+LOO 525 660
+LOO 550 660
+LOO 575 660
+LOO 600 660
+LOO 625 660
+LOO 650 660
+LOO 660 660
+LOO COMPLETE {'R2': 0.6077864278417414, 'RMSE': 0.5365077818259136, 'MAE': 0.3979566533796983, 'Q2_LOO': 0.6077864278417414}

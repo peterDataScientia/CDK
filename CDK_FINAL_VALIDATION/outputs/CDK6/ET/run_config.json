@@ -1,0 +1,32 @@
+{
+  "target": "CDK6",
+  "algorithm": "ET",
+  "n_train": 660,
+  "n_test": 158,
+  "seed": 2024,
+  "grid": {
+    "n_estimators": [
+      100,
+      300,
+      500
+    ],
+    "max_features": [
+      0.1,
+      0.3,
+      "sqrt"
+    ],
+    "min_samples_leaf": [
+      1,
+      2,
+      4
+    ]
+  },
+  "python": "3.12.16 (main, Oct 26 2026, 11:37:43) [GCC 15.3.0]",
+  "sklearn": "1.8.0",
+  "rdkit": "2025.09.4",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "joblib": "1.5.3",
+  "data_sha256": "6bcc496cd44334b862ffcb7be917b9e05858140bcd34b284cf53b930a74f2bc9",
+  "holdout_sha256": "0c1d0b1e52ab5035ab4a4dc8ecdc331e38f5eecc2ed1713bec42576c79791a30"
+}

@@ -1,0 +1,16 @@
+{
+  "params": {
+    "n_estimators": 200,
+    "max_depth": 10,
+    "learning_rate": 0.1448381766378541,
+    "subsample": 0.5945700000679186,
+    "colsample_bytree": 0.8839442034485865,
+    "reg_alpha": 3.313983874909099,
+    "reg_lambda": 12.666120912575021,
+    "min_child_weight": 4
+  },
+  "mean_fold_RMSE": 0.861611603620892,
+  "trial": 51,
+  "n_complete": 100,
+  "source": "TPE"
+}

@@ -1,0 +1,8 @@
+{
+  "params": {
+    "C": 1,
+    "epsilon": 0.01,
+    "gamma": 0.02
+  },
+  "mean_fold_RMSE": 0.6042855057151667
+}

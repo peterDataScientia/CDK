@@ -1,0 +1,642 @@
+[
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.01,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 1.0433037565427021
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.01,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.929730810205901
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.01,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.9012199648033484
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.01,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8769715813894132
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.01,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.9084063884390774
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.05,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 1.0414673717849734
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.05,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9289599258380973
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.05,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8989088064191517
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.05,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8761984884799549
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.05,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.9097129838333888
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.1,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 1.0419991285627768
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.1,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.929055643368629
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.1,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8966056629091611
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.1,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8754218884476588
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.1,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.91170874489208
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.2,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 1.0422033168054732
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.2,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9291738062431368
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.2,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8947585655504493
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.2,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8735271452848539
+  },
+  {
+    "params": {
+      "C": 1,
+      "epsilon": 0.2,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.9185288787716317
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.01,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9197667992290299
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.01,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9026077110293022
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.01,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8734097847656032
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.01,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8507324973222596
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.01,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8861134068354238
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.05,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9176635896119447
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.05,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.8984979046437331
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.05,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8720031175682132
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.05,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8510233549683901
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.05,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8888107590081099
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.1,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9123080593958559
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.1,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.8957582687193199
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.1,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8714989584004985
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.1,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8516681139540743
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.1,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8926683110741491
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.2,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9039400448611455
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.2,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.8890088321651655
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.2,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8684987783930105
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.2,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8530436391058049
+  },
+  {
+    "params": {
+      "C": 10,
+      "epsilon": 0.2,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.9016556684683039
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.01,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9548391173635233
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.01,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9240670510352614
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.01,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8800967889247064
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.01,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8514262360985649
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.01,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8865111371743591
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.05,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9491325809345766
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.05,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9201427293943591
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.05,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8778632981529536
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.05,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8517505115130907
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.05,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8891681678972294
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.1,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9428183032431315
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.1,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9167879526733256
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.1,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8757616911525068
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.1,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.852683652584063
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.1,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8929459780606583
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.2,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9307791089644353
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.2,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9105256036831055
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.2,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8722767207627561
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.2,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8541260284037541
+  },
+  {
+    "params": {
+      "C": 50,
+      "epsilon": 0.2,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.9018050715006396
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.01,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9940329359073281
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.01,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9305658652523321
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.01,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.880324901073203
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.01,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8522408013335435
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.01,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8865111371743591
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.05,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.985620391604589
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.05,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9255320178316676
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.05,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.878409165838625
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.05,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8523265995739803
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.05,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8891681678972294
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.1,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9784034494617071
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.1,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.920607925538772
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.1,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8765316822360618
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.1,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8530588610583284
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.1,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.8929459780606583
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.2,
+      "gamma": 0.001
+    },
+    "mean_fold_RMSE": 0.9686518783680659
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.2,
+      "gamma": 0.005
+    },
+    "mean_fold_RMSE": 0.9128925658253212
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.2,
+      "gamma": 0.01
+    },
+    "mean_fold_RMSE": 0.8728027256691093
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.2,
+      "gamma": 0.02
+    },
+    "mean_fold_RMSE": 0.8543988965177935
+  },
+  {
+    "params": {
+      "C": 100,
+      "epsilon": 0.2,
+      "gamma": 0.05
+    },
+    "mean_fold_RMSE": 0.9018088463029545
+  }
+]

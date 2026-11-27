@@ -1,0 +1,56 @@
+START CDK6 XGB core
+/mnt/lustre/users/apeter1/cdk_screen_env/lib/python3.12/site-packages/xgboost/core.py:265: FutureWarning: Your system has an old version of glibc (< 2.28). We will stop supporting Linux distros with glibc older than 2.28 after **May 31, 2025**. Please upgrade to a recent Linux distro (with glibc 2.28+) to use future versions of XGBoost.
+Note: You have installed the 'manylinux2014' variant of XGBoost. Certain features such as GPU algorithms or federated learning are not available. To use these features, please upgrade to a recent Linux distro with glibc 2.28+, and install the 'manylinux_2_28' variant.
+  warnings.warn(
+HOLDOUT {'R2': 0.5450140579117346, 'RMSE': 0.5711504508782892, 'MAE': 0.4080402563618989}
+REPEAT 1
+REPEAT 2
+REPEAT 3
+REPEAT 4
+REPEAT 5
+REPEAT 6
+REPEAT 7
+REPEAT 8
+REPEAT 9
+REPEAT 10
+REPEAT 11
+REPEAT 12
+REPEAT 13
+REPEAT 14
+REPEAT 15
+REPEAT 16
+REPEAT 17
+REPEAT 18
+REPEAT 19
+REPEAT 20
+YRAND 1
+YRAND 2
+YRAND 3
+YRAND 4
+YRAND 5
+YRAND 6
+YRAND 7
+YRAND 8
+YRAND 9
+YRAND 10
+YRAND 11
+YRAND 12
+YRAND 13
+YRAND 14
+YRAND 15
+YRAND 16
+YRAND 17
+YRAND 18
+YRAND 19
+YRAND 20
+YRAND 21
+YRAND 22
+YRAND 23
+YRAND 24
+YRAND 25
+YRAND 26
+YRAND 27
+YRAND 28
+YRAND 29
+YRAND 30
+CORE COMPLETE

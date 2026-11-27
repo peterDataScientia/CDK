@@ -1,0 +1,46 @@
+{
+  "target": "CDK4",
+  "algorithm": "RF",
+  "n_train": 1074,
+  "n_test": 251,
+  "seed": 2024,
+  "grid": {
+    "n_estimators": [
+      100,
+      300,
+      500
+    ],
+    "max_features": [
+      0.1,
+      0.3,
+      "sqrt"
+    ],
+    "min_samples_leaf": [
+      1,
+      2,
+      4
+    ]
+  },
+  "python": "3.12.16 (main, Oct 26 2026, 11:37:43) [GCC 15.3.0]",
+  "sklearn": "1.8.0",
+  "rdkit": "2025.09.4",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "joblib": "1.5.3",
+  "data_sha256": "31d53a3afd796dac71d72f92498bc162e0dc0a7be960b8b4f5ba6b8dbbf647b2",
+  "holdout_sha256": "2752a0f71f65f2eb356bffa809bf36c4a27ac583e396af3f6f5417f463266d6d",
+  "selected_candidate": {
+    "params": {
+      "n_estimators": 750,
+      "max_features": 0.17660313999047242,
+      "max_depth": 42,
+      "min_samples_split": 3,
+      "min_samples_leaf": 1
+    },
+    "mean_fold_RMSE": 0.6784528247993438,
+    "trial": 33,
+    "n_complete": 100,
+    "source": "TPE"
+  },
+  "validation_protocol": "locked-v1"
+}

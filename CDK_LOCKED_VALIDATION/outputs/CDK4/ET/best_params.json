@@ -1,0 +1,13 @@
+{
+  "params": {
+    "n_estimators": 300,
+    "max_features": 0.07934385201686148,
+    "max_depth": 48,
+    "min_samples_split": 5,
+    "min_samples_leaf": 1
+  },
+  "mean_fold_RMSE": 0.665298487434974,
+  "trial": 78,
+  "n_complete": 100,
+  "source": "TPE"
+}
